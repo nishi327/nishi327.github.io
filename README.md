@@ -13,3 +13,11 @@
 ・サッカー経歴：静岡学園→拓殖大学→クリアソン新宿
 ・社歴　　　　：Faber Company→Apple Japan合同会社→株式会社Criacao
 ・
+
+## gitの使い方
+```sh
+git status
+git add filename
+git commit -m "commit message"
+git push
+```
